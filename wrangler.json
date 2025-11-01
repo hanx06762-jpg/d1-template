@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "439e1bff-a6e9-474b-8569-5502e9bddc48",
+      "database_name": "odark"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
